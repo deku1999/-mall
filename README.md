@@ -2,6 +2,10 @@
 
 ## Project setup
 ```
+接口地址为避免访问压力需添加老师微信coderwhy002
+```
+
+```
 npm install
 ```
 

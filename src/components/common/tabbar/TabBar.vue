@@ -24,7 +24,7 @@
 </template>
 
 <script>
-import LittleNav from "components/common/LittleNav"
+import LittleNav from "./LittleNav"
 export default {
   name: 'TabBar',
   data () {
